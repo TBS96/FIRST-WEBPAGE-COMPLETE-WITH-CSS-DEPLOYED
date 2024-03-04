@@ -1,2 +1,2 @@
 My first website
-# <a>prantik96.github.io</a>
+# <a href="prantik96.github.io">prantik96.github.io</a>
